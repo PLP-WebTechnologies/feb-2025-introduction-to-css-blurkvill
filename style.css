@@ -1,0 +1,32 @@
+/* 1. Style the title (class selector) */
+.title {
+  color: blue;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* 2. Style the description (ID selector) */
+#description {
+  color: darkgray;
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* 3. Style content section (class selector) */
+.content {
+  background-color: lightgray;
+  padding: 15px;
+  margin: 20px;
+  border-radius: 8px;
+}
+
+/* Style the image (class selector) */
+.styled-image {
+  width: 300px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border: 5px solid black;
+}
